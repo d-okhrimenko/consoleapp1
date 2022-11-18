@@ -10,5 +10,6 @@ namespace ConsoleApp1
     {
         // comment
         // comment
+        // bug fix
     }
 }
